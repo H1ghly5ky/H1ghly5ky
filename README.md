@@ -1,5 +1,9 @@
-##                                                        Hi there 👋
-
+# <div align="center"> Hello, I'm Sergey 👋</div>
+<div width="1000px">
+<p align="center" ><strong></strong>Computer Science Student</strong></p>
+<p align="center">Frontend Developer • UX/UI Designer</p>
+<p  max-width="100%"align='center''>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src='https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&pause=1000&color=5E2995&width=435&lines=UX%2FUI+Disign+%E2%80%A2+Mobile+First;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding+process...;JS%E2%80%A2++React+%E2%80%A2+Vue.js++%E2%80%A2+Materialize;HTML5%26CSS3+%E2%80%A2+SCSS%2FSASS;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thanks+for+Watching'></p>
+</div>
 <!--
 **H1ghly5ky/H1ghly5ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
